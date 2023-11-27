@@ -7,37 +7,12 @@
 <a href="https://linkedin.com/in/nicolasfontanini/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
-  
 
+<hr/>
 
-
-### FullStack Developer  
-Soy FullStack Developer con un enfoque especial en el diseño. Aunque soy relativamente nuevo en el mundo del desarrollo, mi entusiasmo por aprender y mejorar nunca ha sido mayor.
-
-🚀 Acerca de Mí:
-
-Actualmente, estoy explorando el fascinante mundo del desarrollo web full-stack, trabajando tanto en el frontend como en el backend de aplicaciones y sitios web.
-Me encanta la idea de crear experiencias de usuario cautivadoras y funcionales, y me esfuerzo por diseñar interfaces que no solo sean visualmente atractivas, sino también intuitivas y eficientes.
-Mi enfoque se centra en construir sistemas robustos que no solo cumplan con los requisitos funcionales, sino que también sean escalables y fáciles de mantener.
-
-🎓 Educación y Experiencia:
-
-En mi ciclo formativo en UTN-BA.
-He tenido la oportunidad de trabajar en proyectos desafiantes donde he podido aplicar mis conocimientos en HTML, CSS, Boostrap, JavaScript,  ReactJs y explorar tecnologías backend como Firebase, Nodejs, Express, PostgresSQL.
-
-💡 Objetivos:
-
-Mi objetivo principal como desarrollador junior es seguir mejorando mis habilidades técnicas, y expandir mi conocimiento en nuevas tecnologías y enfoques que me permitan enfrentar desafíos más complejos y contribuir al desarrollo de soluciones innovadoras.
-
-🌐 Más Allá del Código:
-
-Siempre estoy abierto a nuevas oportunidades y a la posibilidad de aprender algo nuevo cada día! 👨‍💻✨
-
-  
-  
+### 🎓 FullStack Developer  🚀
 
 <br/>  
-
 
 ## Languages and Tools  
 <div align="center">  
