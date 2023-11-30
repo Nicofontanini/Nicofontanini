@@ -44,8 +44,11 @@
 
 TaskList:
 
-    <img src="https://drive.google.com/uc?export=view&id=1JL04xuO1uykQ9MOK9LgwNZrVjwDxJJK0" alt="Captura de Pantalla 1" width="400"/>
-    <img src="https://drive.google.com/uc?export=view&id=10NiJb9hz_ETsxImbXae6QpTsfFm0NOa1" alt="Captura de Pantalla 2" width="400"/>
+<div style="display: flex; flex-direction: row; align-items: flex-start;">
+    <img src="https://drive.google.com/uc?export=view&id=1JL04xuO1uykQ9MOK9LgwNZrVjwDxJJK0" alt="Captura de Pantalla 1" width="400" align="top" />
+    <img src="https://drive.google.com/uc?export=view&id=10NiJb9hz_ETsxImbXae6QpTsfFm0NOa1" alt="Captura de Pantalla 2" width="400" align="top" />
+</div>
+
 
 
 
