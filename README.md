@@ -43,7 +43,7 @@
 ## 📌 Mis Proyectos
 
 ## TaskList
-![Captura de Pantalla 1](https://drive.google.com/uc?export=view&id=1JL04xuO1uykQ9MOK9LgwNZrVjwDxJJK0)
+<img src="https://drive.google.com/uc?export=view&id=1JL04xuO1uykQ9MOK9LgwNZrVjwDxJJK0" alt="Captura de Pantalla 1" width="300" />
 ![Captura de Pantalla 2](https://drive.google.com/uc?export=view&id=10NiJb9hz_ETsxImbXae6QpTsfFm0NOa1)
   
 
