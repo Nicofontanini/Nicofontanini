@@ -17,6 +17,7 @@
 
 ## ⭐ Languages and Tools  
 <div align="center">  
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ac7ca48827aef70b332b0520d213fe6f4468b2db7d37d98d4287f215a4382ba9/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f77335f68746d6c352f77335f68746d6c352d617232312e737667"><img width="10%" src="https://camo.githubusercontent.com/ac7ca48827aef70b332b0520d213fe6f4468b2db7d37d98d4287f215a4382ba9/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f77335f68746d6c352f77335f68746d6c352d617232312e737667" data-canonical-src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" style="max-width: 100%;"></a>
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="45" /></a>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="45" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="45" /></a>  
