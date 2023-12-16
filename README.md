@@ -16,7 +16,7 @@
 
 
 ## ⭐ Languages and Tools  
-<div align="center">  
+<div>  
 <p dir="auto">
   <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ac7ca48827aef70b332b0520d213fe6f4468b2db7d37d98d4287f215a4382ba9/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f77335f68746d6c352f77335f68746d6c352d617232312e737667"><img width="10%" src="https://camo.githubusercontent.com/ac7ca48827aef70b332b0520d213fe6f4468b2db7d37d98d4287f215a4382ba9/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f77335f68746d6c352f77335f68746d6c352d617232312e737667" data-canonical-src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" style="max-width: 100%;"></a></code>
   <code><a target="_blank" rel="noopener noreferrer" href="https://github.com/WanCirone/wancirone/blob/main/logos/1200px-Devicon-css3-plain.svg.png"><img width="10%" height="50px" src="https://github.com/WanCirone/wancirone/raw/main/logos/1200px-Devicon-css3-plain.svg.png" style="max-width: 100%;"></a></code>
