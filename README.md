@@ -17,6 +17,10 @@
 
 ## ⭐ Languages and Tools  
 <div>  
+  <code><a target="_blank" rel="noopener noreferrer nofollow" href="URL_DIRECTA_HTML5"><img width="10%" src="URL_DIRECTA_HTML5" style="max-width: 100%;"></a></code>
+<code><a target="_blank" rel="noopener noreferrer" href="URL_DIRECTA_CSS3"><img width="10%" height="50px" src="URL_DIRECTA_CSS3" style="max-width: 100%;"></a></code>
+<!-- Agrega líneas similares para otros íconos -->
+
 <p dir="auto"><code><a target="_blank" rel="noopener noreferrer nofollow" href="DIRECT_URL_TO_HTML5_IMAGE"><img width="10%" src="DIRECT_URL_TO_HTML5_IMAGE" style="max-width: 100%;"></a></code>
 <code><a target="_blank" rel="noopener noreferrer" href="DIRECT_URL_TO_CSS3_IMAGE"><img width="10%" height="50px" src="DIRECT_URL_TO_CSS3_IMAGE" style="max-width: 100%;"></a></code>
 <code><a target="_blank" rel="noopener noreferrer" href="DIRECT_URL_TO_JAVASCRIPT_IMAGE"><img width="10%" height="50px" src="DIRECT_URL_TO_JAVASCRIPT_IMAGE" style="max-width: 100%;"></a></code>
