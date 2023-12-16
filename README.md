@@ -26,7 +26,7 @@
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="45" /></a>  
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="60" /></a>  
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="60" /></a>  
-<a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="URL_DIRECTA_PARA_IMAGEN_GIT" alt="Git" height="45" /></a>
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://sequelize.org/" target="_blank"><img style="margin: 10px" src="URL_DIRECTA_PARA_IMAGEN_SEQUELIZE" alt="Sequelize" height="45" /></a>
 
 </div>  
