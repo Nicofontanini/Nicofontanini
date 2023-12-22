@@ -46,8 +46,8 @@ TaskList: https://tasklist-reactapp.netlify.app
 </div>
 
 <div style="display: flex; flex-direction: row; align-items: flex-start;">
-    <img src="https://drive.google.com/file/d/1osMenwd9x7QsJZkcL98Kkb7o0VZVrW-9/view?usp=drive_link" alt="Captura de Pantalla 1" width="400" align="top" />
-    <img src="https://drive.google.com/file/d/1G7RuGrKEEdERkNLICtNKgTYSyRoQnvdw/view?usp=drive_link" alt="Captura de Pantalla 2" width="400" align="top" />
+    <img src="https://drive.google.com/uc?export=view&id=1osMenwd9x7QsJZkcL98Kkb7o0VZVrW-9" alt="Captura de Pantalla 1" width="400" align="top" />
+    <img src="https://drive.google.com/uc?export=view&id=1G7RuGrKEEdERkNLICtNKgTYSyRoQnvdw" alt="Captura de Pantalla 2" width="400" align="top" />
 </div>
 
 <br/>  
