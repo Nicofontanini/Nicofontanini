@@ -27,7 +27,7 @@
 </a>
 
 <a href="https://www.tiendanube.com/" target="_blank">
-  <img src="https://cdn.simpleicons.org/nuxtdotjs" alt="Tiendanube" height="60" />
+  <img src="https://img.icons8.com/color/96/shop.png" alt="Tiendanube" height="60" />
 </a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
@@ -44,16 +44,12 @@
   <img src="https://cdn.simpleicons.org/react" alt="React" height="60" />
 </a>
 
-<a href="https://nextjs.org/" target="_blank">
-  <img src="https://cdn.simpleicons.org/nextdotjs" alt="Next.js" height="60" />
-</a>
-
 <a href="https://nodejs.org/" target="_blank">
   <img src="https://cdn.simpleicons.org/nodedotjs" alt="Node.js" height="60" />
 </a>
 
 <a href="https://expressjs.com/" target="_blank">
-  <img src="https://cdn.simpleicons.org/express" alt="Express" height="60" />
+  <img src="https://cdn.simpleicons.org/express" alt="Express.js" height="60" />
 </a>
 
 <a href="https://www.postgresql.org/" target="_blank">
@@ -71,14 +67,10 @@
 </a>
 
 <a href="https://www.figma.com/" target="_blank">
-  <img src="https://cdn.simpleicons.org/figma" alt="Figma" height="60" />
+  <img src="https://cdn.worldvectorlogo.com/logos/figma-icon.svg" alt="Figma" height="60" />
 </a>
 
-<a href="https://developers.facebook.com/docs/whatsapp/" target="_blank">
-  <img src="https://cdn.simpleicons.org/whatsapp" alt="WhatsApp API" height="60" />
-</a>
-
-</div>  
+</div>
 
 <br/>  
 
