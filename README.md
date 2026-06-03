@@ -16,7 +16,7 @@
 
 
 ## Languages and Tools  
-<div align="center">
+<div>
 
 <!-- PLATAFORMAS E-COMMERCE -->
 <a href="https://www.shopify.com/" target="_blank">
