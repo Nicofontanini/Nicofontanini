@@ -1,4 +1,4 @@
-## Hola 👋, Soy Nico! FullStack Developer  🚀
+## Hola 👋, Soy Nico! Web Developer | E-commerce | APIs & Integrations 🚀
   
 
 <a href="https://github.com/https://github.com/Nicofontanini" target="_blank">
