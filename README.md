@@ -1,4 +1,4 @@
-## Hola 👋, Soy Nico! Web Developer | E-commerce | APIs & Integrations 🚀
+## Web Developer | E-commerce | Shopify | WooCommerce | Tiendanube | APIs & Integrations | TypeScript | Liquid
   
 
 <a href="https://github.com/https://github.com/Nicofontanini" target="_blank">
