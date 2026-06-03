@@ -20,7 +20,7 @@
 
 <!-- PLATAFORMAS E-COMMERCE -->
 <a href="https://www.shopify.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/shopify/shopify-original.svg" alt="Shopify" width="60" height="60" />
+  <img src="https://cdn.worldvectorlogo.com/logos/shopify.svg" alt="Shopify" width="60" height="60" />
 </a>
 
 <a href="https://woocommerce.com/" target="_blank">
