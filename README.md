@@ -13,6 +13,11 @@
 
 <br/>  
 
+
+## Languages and Tools  
+<div style="display: flex; gap: 15px; align-items: center; flex-wrap: wrap;">
+
+<!-- ESTILO PARA QUITAR EL SUBRAYADO AZUL -->
 <style>
   div a {
     text-decoration: none !important;
@@ -24,11 +29,6 @@
   }
 </style>
 
-
-
-## Languages and Tools  
-<div>
-
 <!-- PLATAFORMAS E-COMMERCE -->
 <a href="https://www.shopify.com/" target="_blank">
   <img src="https://cdn.worldvectorlogo.com/logos/shopify.svg" alt="Shopify" width="60" height="60" />
@@ -38,7 +38,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" alt="WooCommerce" width="60" height="60" />
 </a>
 
-<!-- TIENDANUBE - Logo original (funciona 100%) -->
+<!-- TIENDANUBE - Logo original -->
 <a href="https://www.tiendanube.com/" target="_blank">
   <img src="https://images.seeklogo.com/logo-png/65/1/tiendanube-logo-png_seeklogo-653533.png" alt="Tiendanube" width="60" height="60" />
 </a>
