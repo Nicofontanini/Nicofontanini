@@ -15,7 +15,7 @@
 
 
 ## Languages and Tools  
-<div align="center">
+<div>
 
 <img src="https://cdn.worldvectorlogo.com/logos/shopify.svg" alt="Shopify" width="60" height="60" />
 
