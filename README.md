@@ -1,4 +1,4 @@
-## Web Developer | E-commerce | Shopify | WooCommerce | Tiendanube | APIs & Integrations | TypeScript | Liquid
+## Web Developer | E-commerce | APIs & Integrations
   
 
 <a href="https://github.com/https://github.com/Nicofontanini" target="_blank">
