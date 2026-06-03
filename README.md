@@ -38,8 +38,6 @@
   <img src="https://cdn.simpleicons.org/typescript" alt="TypeScript" height="60" />
 </a>
 
-<br><br>
-
 <a href="https://react.dev/" target="_blank">
   <img src="https://cdn.simpleicons.org/react" alt="React" height="60" />
 </a>
@@ -51,8 +49,6 @@
 <a href="https://www.postgresql.org/" target="_blank">
   <img src="https://cdn.simpleicons.org/postgresql" alt="PostgreSQL" height="60" />
 </a>
-
-<br><br>
 
 <a href="https://git-scm.com/" target="_blank">
   <img src="https://cdn.simpleicons.org/git" alt="Git" height="60" />
