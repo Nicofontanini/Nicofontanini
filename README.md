@@ -16,51 +16,54 @@
 
 
 ## Languages and Tools  
-<div>
-  <!-- E-COMMERCE PLATFORMS -->
-  <a href="https://www.shopify.com/" target="_blank">
-    <img src="https://cdn.simpleicons.org/shopify" alt="Shopify" height="60" />
-  </a>
+<div align="center">
 
-  <a href="https://woocommerce.com/" target="_blank">
-    <img src="https://cdn.simpleicons.org/woocommerce" alt="WooCommerce" height="60" />
-  </a>
+<!-- PLATAFORMAS E-COMMERCE -->
+<a href="https://www.shopify.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/shopify/shopify-original.svg" alt="Shopify" width="60" height="60" />
+</a>
 
-  <!-- Tiendanube (ícono oficial corregido) -->
-  <a href="https://www.tiendanube.com/" target="_blank">
-    <img src="https://cdn.simpleicons.org/nuvemshop" alt="Tiendanube" height="60" />
-  </a>
+<a href="https://woocommerce.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" alt="WooCommerce" width="60" height="60" />
+</a>
 
-  <!-- LANGUAGES & FRAMEWORKS -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://cdn.simpleicons.org/javascript" alt="JavaScript" height="60" />
-  </a>
+<!-- TIENDANUBE - Logo original (funciona 100%) -->
+<a href="https://www.tiendanube.com/" target="_blank">
+  <img src="https://img.icons8.com/color/240/tiendanube.png" alt="Tiendanube" width="60" height="60" />
+</a>
 
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://cdn.simpleicons.org/typescript" alt="TypeScript" height="60" />
-  </a>
+<!-- LENGUAJES -->
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60" />
+</a>
 
-  <a href="https://react.dev/" target="_blank">
-    <img src="https://cdn.simpleicons.org/react" alt="React" height="60" />
-  </a>
+<a href="https://www.typescriptlang.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="60" height="60" />
+</a>
 
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://cdn.simpleicons.org/nodedotjs" alt="Node.js" height="60" />
-  </a>
+<!-- FRAMEWORKS -->
+<a href="https://react.dev/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="60" height="60" />
+</a>
 
-  <!-- DATABASES & TOOLS -->
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://cdn.simpleicons.org/postgresql" alt="PostgreSQL" height="60" />
-  </a>
+<a href="https://nodejs.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="60" height="60" />
+</a>
 
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://cdn.simpleicons.org/git" alt="Git" height="60" />
-  </a>
+<!-- BASE DE DATOS -->
+<a href="https://www.postgresql.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="60" height="60" />
+</a>
 
-  <!-- Figma (ícono de Simple Icons para mantener la unidad) -->
-  <a href="https://www.figma.com/" target="_blank">
-    <img src="https://cdn.simpleicons.org/figma" alt="Figma" height="60" />
-  </a>
+<!-- HERRAMIENTAS -->
+<a href="https://git-scm.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="60" height="60" />
+</a>
+
+<a href="https://www.figma.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="60" height="60" />
+</a>
+
 </div>
 
 <br/>  
