@@ -15,8 +15,8 @@
 
 
 
-## ⭐ Languages and Tools  
-<div align="center">
+## Languages and Tools  
+<div>
 
 <a href="https://www.shopify.com/" target="_blank">
   <img src="https://cdn.simpleicons.org/shopify" alt="Shopify" height="60" />
@@ -48,10 +48,6 @@
   <img src="https://cdn.simpleicons.org/nodedotjs" alt="Node.js" height="60" />
 </a>
 
-<a href="https://expressjs.com/" target="_blank">
-  <img src="https://cdn.simpleicons.org/express" alt="Express.js" height="60" />
-</a>
-
 <a href="https://www.postgresql.org/" target="_blank">
   <img src="https://cdn.simpleicons.org/postgresql" alt="PostgreSQL" height="60" />
 </a>
@@ -62,10 +58,6 @@
   <img src="https://cdn.simpleicons.org/git" alt="Git" height="60" />
 </a>
 
-<a href="https://github.com/" target="_blank">
-  <img src="https://cdn.simpleicons.org/github" alt="GitHub" height="60" />
-</a>
-
 <a href="https://www.figma.com/" target="_blank">
   <img src="https://cdn.worldvectorlogo.com/logos/figma-icon.svg" alt="Figma" height="60" />
 </a>
@@ -74,7 +66,7 @@
 
 <br/>  
 
-## 📌 Mis Proyectos
+## Mis Proyectos
 
 
 <br/>  
