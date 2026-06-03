@@ -29,7 +29,7 @@
 
 <!-- TIENDANUBE - Logo original (funciona 100%) -->
 <a href="https://www.tiendanube.com/" target="_blank">
-  <img src="https://img.icons8.com/color/240/tiendanube.png" alt="Tiendanube" width="60" height="60" />
+  <img src="https://images.seeklogo.com/logo-png/65/1/tiendanube-logo-png_seeklogo-653533.png" alt="Tiendanube" width="60" height="60" />
 </a>
 
 <!-- LENGUAJES -->
