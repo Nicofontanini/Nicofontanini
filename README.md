@@ -13,6 +13,17 @@
 
 <br/>  
 
+<style>
+  div a {
+    text-decoration: none !important;
+    border-bottom: none !important;
+  }
+  div a:hover {
+    text-decoration: none !important;
+    border-bottom: none !important;
+  }
+</style>
+
 
 
 ## Languages and Tools  
