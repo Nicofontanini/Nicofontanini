@@ -16,16 +16,67 @@
 
 
 ## ⭐ Languages and Tools  
-<div>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="60" /></a>  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="60" /></a> 
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="60" /></a> 
-  </br> 
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="60" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="60" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="60" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="60" /></a>  
+<div align="center">
 
+<a href="https://www.shopify.com/" target="_blank">
+  <img src="https://cdn.simpleicons.org/shopify" alt="Shopify" height="60" />
+</a>
+
+<a href="https://woocommerce.com/" target="_blank">
+  <img src="https://cdn.simpleicons.org/woocommerce" alt="WooCommerce" height="60" />
+</a>
+
+<a href="https://www.tiendanube.com/" target="_blank">
+  <img src="https://cdn.simpleicons.org/nuxtdotjs" alt="Tiendanube" height="60" />
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <img src="https://cdn.simpleicons.org/javascript" alt="JavaScript" height="60" />
+</a>
+
+<a href="https://www.typescriptlang.org/" target="_blank">
+  <img src="https://cdn.simpleicons.org/typescript" alt="TypeScript" height="60" />
+</a>
+
+<br><br>
+
+<a href="https://react.dev/" target="_blank">
+  <img src="https://cdn.simpleicons.org/react" alt="React" height="60" />
+</a>
+
+<a href="https://nextjs.org/" target="_blank">
+  <img src="https://cdn.simpleicons.org/nextdotjs" alt="Next.js" height="60" />
+</a>
+
+<a href="https://nodejs.org/" target="_blank">
+  <img src="https://cdn.simpleicons.org/nodedotjs" alt="Node.js" height="60" />
+</a>
+
+<a href="https://expressjs.com/" target="_blank">
+  <img src="https://cdn.simpleicons.org/express" alt="Express" height="60" />
+</a>
+
+<a href="https://www.postgresql.org/" target="_blank">
+  <img src="https://cdn.simpleicons.org/postgresql" alt="PostgreSQL" height="60" />
+</a>
+
+<br><br>
+
+<a href="https://git-scm.com/" target="_blank">
+  <img src="https://cdn.simpleicons.org/git" alt="Git" height="60" />
+</a>
+
+<a href="https://github.com/" target="_blank">
+  <img src="https://cdn.simpleicons.org/github" alt="GitHub" height="60" />
+</a>
+
+<a href="https://www.figma.com/" target="_blank">
+  <img src="https://cdn.simpleicons.org/figma" alt="Figma" height="60" />
+</a>
+
+<a href="https://developers.facebook.com/docs/whatsapp/" target="_blank">
+  <img src="https://cdn.simpleicons.org/whatsapp" alt="WhatsApp API" height="60" />
+</a>
 
 </div>  
 
